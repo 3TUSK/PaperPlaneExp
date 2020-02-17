@@ -1,3 +1,5 @@
+Other languages: [简体中文](index-zh-HanS).html
+
 ## What is it?
 
 This is a simple experiment to demonstrate "how hard is to write a user manual?"   
@@ -14,6 +16,7 @@ Everyone that is over 12 is welcome. However, we prefer those with non-STEM back
      We offer ZERO explanations, and you should ONLY use this manual.  
   3. Upload your recording to a video-sharing website and share the video link.
      Make sure you note your background (major, etc.)!    
+     Make sure you note which translation(s) do you use.
      Feel free to complain as much as you want to.
   4. Spread this to let more people involve!
 
@@ -37,4 +40,4 @@ Examples of non-STEM majors:
 
 If you are in middle or high school, that counts as non-STEM.
 
-[link-manual]: Instructions.html
+[link-manual]: Instructions.md
