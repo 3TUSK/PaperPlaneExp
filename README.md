@@ -1,4 +1,4 @@
-Other languages: [简体中文](index-zh-HanS).html
+Other languages: [简体中文](index-zh-HanS.html)
 
 ## What is it?
 
