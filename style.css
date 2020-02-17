@@ -1,0 +1,18 @@
+/*
+ * Adapted from the stylesheet used in http://asie.pl/ as of Feb 17th, 2020.
+ * Thanks a lot, asie!
+ */
+
+* {
+  background-color: #f8f4f0;
+  color: #181410;
+}
+	
+body {
+  padding: 1em;
+  font-family: sans-serif;
+}
+
+li {
+  margin-left: 1em;
+}
