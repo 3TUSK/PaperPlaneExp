@@ -13,7 +13,7 @@ Everyone that is over 12 is welcome. However, we prefer those with non-STEM back
   2. Follow the instructions to make a paper plane; record the entire process as video.  
      You want to follow it verbatim, even if you think it is nonsense.  
      Forget all your prior knowledge if there is any.  
-     We offer ZERO explanations to the instructions.
+     We offer ZERO explanations to the instructions.  
      It is perfectly fine if your final result isn't even a paper plane.
   3. Upload your recording to a video-sharing website and share the video link.  
      Make sure you note your background (major, etc.)!    
