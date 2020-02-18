@@ -42,4 +42,4 @@ Examples of non-STEM majors:
 
 If you are in middle or high school, that counts as non-STEM.
 
-[link-manual]: Instructions.md
+[link-manual]: Instructions.html
