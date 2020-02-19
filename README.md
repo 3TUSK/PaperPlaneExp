@@ -19,6 +19,7 @@ Everyone that is over 12 is welcome. However, we prefer those with non-STEM back
      Make sure you note your background (major, etc.)!    
      Make sure you note which translation(s) do you use, and when do you read.  
      Feel free to complain as much as you want to.
+     Don't forget #PaperPlaneExperiment# hashtag!
   4. Spread this to let more people involve!  
      We rely on your videos to improve our instructions.
 

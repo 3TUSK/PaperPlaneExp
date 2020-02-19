@@ -1,6 +1,6 @@
 # Paper Plane Instructions
 
-  1. Get a piece of A4 paper.  
+  1. Get a piece of A4-sized paper, preferably printing paper or notebook paper.  
      ![Step1](Step1.svg)
   2. Fold the two upper corner towards inside of the paper, so the two corners meet together in the middle.  
      ![Step2](Step2.svg)
